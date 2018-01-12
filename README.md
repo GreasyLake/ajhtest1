@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Microservice
 IBM Cloud Microservice Starter for Java - MicroProfile / Java EE
 
@@ -63,3 +64,6 @@ This project was generated using:
 * generator-ibm-service-enablement v0.6.0
 * generator-ibm-cloud-enablement v0.6.11
 * generator-ibm-java-liberty v7.1.0
+=======
+# ajhtest1
+>>>>>>> 547e7c00f4eecd6ac5e2ad308b09d045a7659681
